@@ -1,0 +1,7 @@
+fieldset{
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+    width:600px;
+    background-color: rgb(175, 230, 224);
+}
